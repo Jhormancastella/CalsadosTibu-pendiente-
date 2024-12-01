@@ -1,3 +1,20 @@
+# CalsadosTibu 
+
+repositorio creado para trabajar en conjusto con unos compañeros en el desarrollo de una web basica para probar visuales de css basicas
+
+
+## Características
+
+- **Lenguaje:** HTML, CSS.
+- **Propósito:** Ayudar a las personas a planificar viajes por Colombia.
+- **Estado:** En desarrollo.
+
+## Uso
+
+1. Clona este repositorio:
+   ```bash
+   git clone[https://github.com/Jhormancastella/CalsadosTibu-pendiente-.git]
+
 <!-- Creacion de ramas -->
 - Dev_Alan = ayelmercorzo 
 - Dev_Maria = mariaHelenaSalas
