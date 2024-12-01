@@ -14,11 +14,14 @@ repositorio creado para trabajar en conjusto con unos compañeros en el desarrol
    ```bash
    git clone[https://github.com/Jhormancastella/CalsadosTibu-pendiente-.git]
 
-<!-- Creacion de ramas -->
+## comapañeros de trabjo. 
+
+## <!-- Creacion de ramas -->
+
 - Dev_Alan = ayelmercorzo 
 - Dev_Maria = mariaHelenaSalas
 - Dev_Stivenson = Stivenco12
 - Dev_Jhorman = JhormanCastella
 - Dev_Osman = osman019
 
-#relase 1.1
+### relase 1.1
