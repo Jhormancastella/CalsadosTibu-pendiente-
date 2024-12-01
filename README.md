@@ -6,8 +6,7 @@ repositorio creado para trabajar en conjusto con unos compañeros en el desarrol
 ## Características
 
 - **Lenguaje:** HTML, CSS.
-- **Propósito:** Ayudar a las personas a planificar viajes por Colombia.
-- **Estado:** En desarrollo.
+- **Estado:** culminado no concluido.
 
 ## Uso
 
